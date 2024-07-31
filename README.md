@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 To start the project, follow these steps:
 
 1 Navigate to the project directory:
-* cd <project-directory>
+ cd <project-directory>
 
 2 Install the dependencies:
 * npm install
@@ -38,6 +38,6 @@ This will start the development server and open the application in your default 
 * App.js: Main application component.
 
 # Contact
-Feel free to contact me.
-Phone no - 8223824412
-Email - mdshahid23456789@gmail.com
+* Feel free to contact me.
+* Phone no - 8223824412
+* Email - mdshahid23456789@gmail.com
