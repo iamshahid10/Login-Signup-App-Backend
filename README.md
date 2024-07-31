@@ -12,7 +12,7 @@ Before you begin, ensure you have met the following requirements:
 To start the project, follow these steps:
 
 1 Navigate to the project directory:
- cd <project-directory>
+* cd project-directory
 
 2 Install the dependencies:
 * npm install
