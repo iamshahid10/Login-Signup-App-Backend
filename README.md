@@ -12,22 +12,22 @@ Before you begin, ensure you have met the following requirements:
 To start the project, follow these steps:
 
 1 Navigate to the project directory:
-cd <project-directory>
+* cd <project-directory>
 
 2 Install the dependencies:
-npm install
+* npm install
 
-3 Environment Variables
-Make sure to create a .env file in the root of your project with the following content:
+3 Environment Variables:
+* Make sure to create a .env file in the root of your project with the following content:
 
-PORT=
-MongoDBURI=""
+* PORT=
+* MongoDBURI=""
 
-PORT: The port on which the application will run.
-MongoDBURI: Your MongoDB connection URI.
+* PORT: The port on which the application will run.
+* MongoDBURI: Your MongoDB connection URI.
 
 3 Start the project:
-npm start
+* npm start
 
 
 This will start the development server and open the application in your default web browser.
