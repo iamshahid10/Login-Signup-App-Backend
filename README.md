@@ -26,16 +26,11 @@ To start the project, follow these steps:
 * PORT: The port on which the application will run.
 * MongoDBURI: Your MongoDB connection URI.
 
-3 Start the project:
+4 Start the project:
 * npm start
 
 
 This will start the development server and open the application in your default web browser.
-
-# Project Structure
-* src/: Contains the source code of the application.
-* components/: Contains React components.
-* App.js: Main application component.
 
 # Contact
 * Feel free to contact me.
